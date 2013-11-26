@@ -25,3 +25,8 @@ ro.com.google.clientidbase.am=android-tmobile-us
 ro.com.google.clientidbase.yt=android-samsung
 ro.com.google.clientidbase.gmm=android-samsung
 
+ro.device.cpu=Quad-core 1.6 GHz
+ro.device.gpu=Mali-400MP
+ro.device.rear_cam=8 MP
+ro.device.front_cam=1.9 MP
+ro.device.screen_res=5.5 inch 720p
